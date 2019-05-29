@@ -1,0 +1,26 @@
+boto
+boto3
+coreapi
+django < 2.2
+django-cors-headers
+django-countries
+django-crispy-forms
+django-dynamic-raw-id
+django-filter
+django-image-cropping
+django-import-export
+django-pipeline
+django-ses
+django-storages
+django-model-utils
+djangorestframework
+djangorestframework-jwt
+markdown
+pillow
+gunicorn
+mysqlclient
+pip-tools
+pygments
+python-dotenv
+twilio
+unipath
